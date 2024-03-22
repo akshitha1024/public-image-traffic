@@ -1,0 +1,1 @@
+This web application features a frontend built with React.js and a backend built with Flask. It allows users to upload images, perform object detection on them, and display both the original and processed images.
